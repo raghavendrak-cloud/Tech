@@ -7,7 +7,7 @@
 
 public class OpportunityTriggerHandler {
     
-    private static final Id OppRecordTypeId= Schema.SObjectType.Opportunity.getRecordTypeInfosByDeveloperName().get('Renewal').getRecordTypeId();
+    private static final Id OppRecordTypeId= Schema.SObjectType.Opportunity.getRecordTypeInfosByDeveloperName().get('Sales').getRecordTypeId();
     private static final String Oppstage = 'Closed';
     
     public static void beforeInsert(List<Opportunity> oppList){
