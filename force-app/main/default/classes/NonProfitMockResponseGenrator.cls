@@ -1,3 +1,11 @@
+/**
+* Mock response  Class.
+* @author         Raghavendra
+* @version        1.0
+* @created        2-07-2021
+* @systemLayer     Class
+**/
+
 @isTest 
 public class NonProfitMockResponseGenrator implements HttpCalloutMock  {
     
