@@ -30,8 +30,8 @@ public class BatchBonuspaouts_ScheduleTest {
     public static void testBatchCreateBonusPayment(){
         
         List<Bonus__c> bonusToInsertList = new List<Bonus__c>{
-            new Bonus__c(Name='janbonus',Start_Date__c=Date.valueOf('2021-07-10 00:00:00''),End_Date__c=Date.valueOf('2021-10-05 00:00:00')),
-                new Bonus__c(Name='Febbonus',Start_Date__c=Date.valueOf('2021-05-10 00:00:00'),End_Date__c=Date.valueOf('2021-7-05 00:00:00'))
+            new Bonus__c(Name='bonus1',Start_Date__c=Date.valueOf('2021-07-10 00:00:00''),End_Date__c=Date.valueOf('2021-10-05 00:00:00')),
+                new Bonus__c(Name='bonus2',Start_Date__c=Date.valueOf('2021-05-10 00:00:00'),End_Date__c=Date.valueOf('2021-7-05 00:00:00'))
                 };
                     INSERT bonusToInsertList;
         
