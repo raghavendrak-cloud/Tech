@@ -1,7 +1,6 @@
 /**
 * Scheduler Class for BatchCreatingBonusPayouts.
 * @author         Raghavendra
-* @maintainedBy   Raghavendra
 * @version        1.0
 * @created        2021-06-14
 * @modified       
