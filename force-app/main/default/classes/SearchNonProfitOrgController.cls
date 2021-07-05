@@ -1,3 +1,12 @@
+/**
+* Batch Class for Creating Bonus Payouts.
+* @author         Raghavendra
+* @version        1.0
+* @created        2-07-2021
+* @systemLayer    SearchNonProfit Class
+**/
+
+
 public with sharing class SearchNonProfitOrgController  {
     
     public static final string Subscription_Key = '407813e975774d7f92a2252d3509b977'; // USE label or custom setting to store auth key
