@@ -1,5 +1,5 @@
 @isTest
-public class preventdupLeadTriggerhandlerTest {
+public class preventdupLeadTriggerhandlerTest { 
     
     @testSetup static void setup(){
        List<Lead> leadToInsertList = new List<Lead>{
