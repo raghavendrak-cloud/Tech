@@ -1,5 +1,5 @@
 /**
-* Batch Class for Creating Bonus Payouts.
+*  Class for Creating Bonus Payouts.
 * @author         Raghavendra
 * @version        1.0
 * @created        2-07-2021
