@@ -1,3 +1,11 @@
+/**
+* Test Class for Search non profit.
+* @author         Raghavendra
+* @version        1.0
+* @created        2-07-2021
+* @systemLayer    SearchNonProfitOrgController Class
+**/
+
 @isTest
 private class SearchNonProfitOrgController_Test {
     
